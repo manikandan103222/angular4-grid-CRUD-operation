@@ -1,0 +1,10 @@
+body {
+    background-color:lightgray !important;
+}
+
+.btn-custom {
+    background-color:burlywood !important;
+    border:1px solid black;
+    width: 100px;
+    font-weight:bold;
+}
